@@ -1,5 +1,5 @@
 # Project Name
-#### Student Name: *Cathal Duffy*   Student ID: *07387903*
+#### Student Name: *Cathal Duffy*   
 
 TODO: The proposal that I would like to put forward is to either build a new area on my current webapp created in the previous semester, or else to build a new webapp with specfic purpose for this project.
 
@@ -17,8 +17,3 @@ TODO: The tools that I would use to create this webapp include the Raspberry Pi,
 
 ## Project Repository
 TODO: 
-
-
-# networkApp
-# networkApp
-# networkApp
